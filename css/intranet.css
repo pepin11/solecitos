@@ -1,0 +1,45 @@
+.header{
+    background-color:white;
+    background-image: url(../img/fondoencabezado.jpg);
+    background-size: cover;
+    background-position-y: 20%;
+    text-decoration-color: white;
+}
+.header img{
+    height: 90px;
+    }
+.main{
+    background-color: darkviolet;
+}
+
+.main img{
+    height: 60vh;
+}
+.solecitos{
+    padding: 2em;
+    }
+.solecitos{
+    text-align: center;
+}
+.solecitos h1{
+    color: rgb(249, 253, 10);
+}
+.solecitos p{
+    color: rgb(21, 226, 65);
+}
+.solecitos iframe{
+    height: 100%;
+    width: 100%;
+}
+.footer{
+    background-color: rgb(240, 91, 22);
+    color:white;
+    text-align:center;
+    padding: 4em;
+}
+.footer img{
+height: 120px;
+}
+.registro{
+    padding: 2em;
+}

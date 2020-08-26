@@ -1,0 +1,1 @@
+<h1>busqueda de informacion</h1>
